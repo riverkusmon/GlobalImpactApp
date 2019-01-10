@@ -27,7 +27,7 @@
                                     <action selector="MapButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="E9Y-LH-tlc"/>
                                 </connections>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="OLY-QU-e3t">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mathApp" translatesAutoresizingMaskIntoConstraints="NO" id="OLY-QU-e3t">
                                 <rect key="frame" x="0.0" y="404" width="375" height="173"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="173" id="3NZ-eX-Ia7"/>
@@ -76,4 +76,7 @@
             <point key="canvasLocation" x="40.799999999999997" y="26.53673163418291"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="mathApp" width="877" height="660"/>
+    </resources>
 </document>
